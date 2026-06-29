@@ -74,6 +74,3 @@ Study Mode; flashcard, quiz, hızlı özet, beginner mode ve tekrar gerekli kart
 - Quiz'leri JSON olarak indirme
 - Not detayını TXT olarak indirme
 
-## CV Açıklaması
-
-"Created an AI-powered course notes organizer that generates summaries, flashcards, quizzes, searchable topic-based study materials, and personalized study recommendations from uploaded notes and PDFs."
